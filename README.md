@@ -9,7 +9,7 @@ I'm an **options specialist** and **quant developer** with a passion for transfo
 ---
 
 ## 🔧 Current Projects  
-### 🌐 [VolaSurfer SaaS](#)  
+### 🌐 [VolaSurfer](#)
 An options analysis platform with:  
 - A dynamic **volatility surface visualizer**  
 - Real-time pricing and skew spread adjustments  
