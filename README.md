@@ -2,13 +2,13 @@
 
 ## 🚀 About Me  
 I'm an **options specialist** and **quant developer** with a passion for transforming complex concepts into tools and visualizations. I focus on:  
-- **Options Analysis:** Implied volatility surfaces, rough volatility modeling, and statistical characteristics.  
-- **Algorithmic Trading:** Developing strategies using QuantConnect and reinforcement learning.  
+- **Options Analysis:** Options surfaces, volatility modeling, and trade analysis.  
+- **Algorithmic Trading:** Developing strategies using QuantConnect.  
 - **Risk Management:** Dynamic hedging, market-making, and vega bucketing for real-world applications.  
 
 ---
 
-## 🔧 Current Projects  
+## 🔧 Ongoing  
 ### 🌐 [VolaSurfer](#)
 An options analysis platform with:  
 - A dynamic **volatility surface visualizer**  
@@ -23,15 +23,15 @@ An options analysis platform with:
 
 ## 💡 Expertise  
 - **Options Trading**  
+- **Risk Management**
 - **QuantDev & Quant Research**  
-- **Data Visualization**  
 
 ---
 
 ## 🤝 Let's Collaborate  
 I'm interested in partnerships for:  
-- Algorithmic trading research  
-- Building financial tools  
+- Algorithmic trading  
+- Data 
 - Market-making and risk management  
 
   
