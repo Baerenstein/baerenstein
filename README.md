@@ -9,13 +9,13 @@ I'm an **options specialist** and **quant developer** with a passion for transfo
 ---
 
 ## 🔧 Ongoing  
-### 🌐 [VolaSurfer](#)
+### 🌐 [VolaSurfer](https://github.com/Baerenstein/VolaSurfer)
 An options analysis platform with:  
 - A dynamic **volatility surface visualizer**  
 - Real-time pricing and skew spread adjustments  
 - Risk management tools and a Greeks visualizer  
 
-### 🤖 [qc-options-framework]()
+### 🤖 [qc-options-framework](https://github.com/Chocksy/qc-options-framework/)
 - Options trading framework built on Quantconnect
 - Support options and futures options
 
@@ -29,9 +29,9 @@ An options analysis platform with:
 ---
 
 ## 🤝 Let's Collaborate  
-I'm interested in partnerships for:  
-- Algorithmic trading  
-- Data 
-- Market-making and risk management  
+I'm interested in :  
+- Algorithmic options trading  
+- Hedging strategies
+- Volatility modelling and risk management  
 
   
