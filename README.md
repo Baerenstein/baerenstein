@@ -1,7 +1,7 @@
 # Welcome to Baerenstein's GitHub 👋  
 
 ## 🚀 About Me  
-I'm an **options specialist** and **quant developer** with a passion for transforming complex concepts into tools and visualizations. I focus on:  
+I'm an **options specialist** and **quant developer** with a passion for transforming complex concepts into tools for analysis and visualizations. I focus on:  
 - **Options Analysis:** Options surfaces, volatility modeling, and trade analysis.  
 - **Algorithmic Trading:** Developing strategies using QuantConnect.  
 - **Risk Management:** Dynamic hedging, market-making, and vega bucketing for real-world applications.  
