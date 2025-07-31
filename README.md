@@ -13,7 +13,10 @@ I'm an **options specialist** and **quant developer** with a passion for transfo
 An options analysis platform with:  
 - A dynamic **volatility surface visualizer**  
 - Real-time pricing and skew spread adjustments  
-- Risk management tools and a Greeks visualizer  
+- Risk management tools and a Greeks visualizer
+
+### [Nautilus](https://github.com/nautechsystems/nautilus_trader)
+A high-performance algorithmic trading platform and event-driven backtester
 
 ### 🤖 [qc-options-framework](https://github.com/Chocksy/qc-options-framework/)
 - Options trading framework built on Quantconnect
