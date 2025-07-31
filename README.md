@@ -1,10 +1,11 @@
 # Welcome to Baerenstein's GitHub 👋  
 
 ## 🚀 About Me  
-I'm an **options specialist** and **quant developer** with a passion for transforming complex concepts into tools for analysis and visualizations. I focus on:  
-- **Options Analysis:** Options surfaces, volatility modeling, and trade analysis.  
-- **Algorithmic Trading:** Developing strategies using QuantConnect.  
-- **Risk Management:** Dynamic hedging, market-making, and vega bucketing for real-world applications.  
+I'm your average **quant trader/strategist/developer/architecht/researcher**. Things I like:  
+- **Options:** Volatility surface modelling, options trading (stocks and crypto, i like all flavors)  
+- **Algorithmic Trading:** Developing trading algorithms using Nautilus and QuantConnect, or DIY solutions  
+- **Risk (Management):** "The paradox of good risk management is that it allows you to take on more risk" -someone
+- **Visualisations: ** Just making data pretty
 
 ---
 
@@ -21,13 +22,6 @@ A high-performance algorithmic trading platform and event-driven backtester
 ### 🤖 [qc-options-framework](https://github.com/Chocksy/qc-options-framework/)
 - Options trading framework built on Quantconnect
 - Support options and futures options
-
----
-
-## 💡 Expertise  
-- **Options Trading**  
-- **Risk Management**
-- **QuantDev & Quant Research**  
 
 ---
 
